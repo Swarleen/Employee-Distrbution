@@ -7,7 +7,7 @@
 Welcome to Employee-Distribution, a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends — from diversity and tenure to turnover and geographic distribution — helping organizations make smarter, data-driven HR decisions.
 
 
-## [PowerBI Report](https://www.novypro.com/project/employee-distribution-dashboard-1) 
+## [PowerBI Report]
 
 
 
