@@ -1,4 +1,4 @@
-# Employee-Distrbution
+# Employee Demographics and Distribution Dashboard
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -10,41 +10,40 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 ## [PowerBI Report]
 
 ## Table of Contents
-Key Questions Explored
-Summary of Findings
-Power BI Report Walkthrough
-Limitations
+- Key Questions Explored
+- Summary of Findings
+- Power BI Report Walkthrough
+- Limitations
 
 ## Key Questions Explored
 
-1. **Gender Breakdown**: Gender distribution of employees within the company.
-2. **Race/Ethnicity Breakdown**: Racial and ethnic composition of the workforce.
-3. **Age Distribution**: Insights into the age distribution of employees.
-4. **Headquarters vs. Remote Locations**: Understanding the number of employees working at headquarters versus remote locations.
-5. **Average Employment Length for Terminated Employees**: Finding out the average tenure of terminated employees.
-6. **Gender Distribution across Departments and Job Titles**: Seeing how gender distribution varies across different departments and job titles.
-7. **Distribution of Job Titles**: Exploring the distribution of job titles across the company.
-8. **Highest Turnover Rate by Department**: Identifing the department with the highest turnover rate.
-9. **Distribution of Employees across Locations (by State)**: Learning about the geographic distribution of employees across different states.
-10. **Employee Count Changes over Time**: Tracking changes in the company's employee count over the years based on hiring and termination dates.
-11. **Tenure Distribution by Department**: Examining the tenure distribution for each department.
+1. **Gender Breakdown**: What is the gender distribution of employees within the company?
+2. **Race/Ethnicity Breakdown**: How diverse (Racial and ethnic composition) is the workforce?
+3. **Age Distribution**: What age groups dominate?
+4. **Headquarters vs. Remote Locations**: What is the number of employees working at headquarters versus remote locations?
+5. **Tenure of Terminates**: What is the average tenure of terminated employees?
+6. **Gender by Department & Title**: Seeing how gender distribution varies across different departments and job titles?
+7. **Distribution of Job Titles**: Exploring which job titles across the company are most common?
+8. **Highest Turnover Rate by Department**: Identifying which department had the highest turnover rate?
+9. **State‑by‑State Headcount**: Where do employees live (geographic distribution)?
+11. **Employee Count Changes over Time**: Tracking how the company's employee count has changed over the years based on hiring and termination dates.
+12. **Tenure by Department**: Which departments have the longest and shortest employee tenures?
 
 ## Summary of Findings
 
 Here are some key findings derived from the HR data analysis:
 
-- **Gender Diversity**: The company has more male employees than female employees.
-- **Race/Ethnicity**: White employees constitute the majority, while Native Hawaiian and American Indian employees are the least represented.
-- **Age Diversity**: Employees' ages range from 20 to 57, with the majority falling within the 25-34 age group.
-- **Work Locations**: A considerable number of employees work at the headquarters compared to remote locations.
-- **Termination Tenure**: The average length of employment for terminated employees is around 7 years.
-- **Gender Balance in Departments**: While gender distribution across departments is fairly balanced, male employees slightly outnumber female employees in most departments.
-- **High Turnover Departments**: The Marketing department experiences the highest turnover rate, followed by Training. Research and Development, Support, and Legal departments have the lowest turnover rates.
-- **Employee Geographic Distribution**: A significant number of employees hail from the state of Ohio.
-- **Employee Count Trends**: Over the years, the company's employee count has been on the rise.
-- **Tenure Variation by Department**: The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
-
-# Power BI Report Walkthrough
+1. **Gender Diversity**:Male employees slightly outnumber female employees.
+2. **Race / Ethnicity**: White employees form the largest group; Native Hawaiian and American Indian are the smallest.
+3. **Age Diversity**: Majority aged **25–34**; overall span **20–57**.
+4. **Work Locations**: HQ employs significantly more people than remote sites.
+5. **Termination Tenure**: Average terminated tenure ≈ **7 years**.
+6. **Turnover**: **Marketing** shows the highest churn, followed by **Training**; **R&D, Support, Legal** are most stable.
+7. **Geographic Concentration**: **Ohio** hosts the largest share of employees.
+8. **Growth Trend**: Headcount rises steadily year‑on‑year.
+9. **Tenure by Dept.**: Avg. dept. tenure ≈ **8 years**; **Legal & Auditing** highest, **Services, Sales, Marketing** lowest.
+    
+## Power BI Report Walkthrough
 
 ## Limitations
 
