@@ -4,10 +4,16 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-Welcome to Employee-Distribution, a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends — from diversity and tenure to turnover and geographic distribution — helping organizations make smarter, data-driven HR decisions.
+Welcome to Employee-Distribution, a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends, from diversity and tenure to turnover and geographic distribution, helping organizations make smarter, data-driven HR decisions.
 
 
 ## [PowerBI Report]
+
+## Table of Contents
+Key Questions Explored
+Summary of Findings
+Power BI Report Walkthrough
+Limitations
 
 ## Key Questions Explored
 
@@ -38,16 +44,17 @@ Here are some key findings derived from the HR data analysis:
 - **Employee Count Trends**: Over the years, the company's employee count has been on the rise.
 - **Tenure Variation by Department**: The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
 
+# Power BI Report Walkthrough
+
 ## Limitations
 
 While this dashboard offers valuable insights, it's essential to be aware of its limitations:
 
-- Some records with negative ages were excluded during querying (967 records). Ages used were 18 years and above.
+- Some records with negative ages were excluded during querying (967 records). The ages used were 18 years and above.
 - Some term dates were too far into the future and were not included in the analysis (1599 records). Only term dates up to the current date were considered.
 
 
-I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
-
+I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes.
 
 ## Author
 - <b>[LinkedIn](https://www.linkedin.com/in/swarleenbhamra)</b>
@@ -56,3 +63,4 @@ I hope you find this HR Data Dashboard insightful and valuable for your organiza
 ## Contact me!
 
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:). I would love to hear from you!
+Happy Analysing!
