@@ -9,9 +9,6 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 
 ## [PowerBI Report]
 
-
-
-
 ## Key Questions Explored
 
 1. **Gender Breakdown**: Gender distribution of employees within the company.
@@ -40,10 +37,6 @@ Here are some key findings derived from the HR data analysis:
 - **Employee Geographic Distribution**: A significant number of employees hail from the state of Ohio.
 - **Employee Count Trends**: Over the years, the company's employee count has been on the rise.
 - **Tenure Variation by Department**: The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
-
-
-## [🔗 Dashboard](https://app.powerbi.com/groups/me/reports/ae8df31d-44a3-4baa-a7c5-859e32e79a93/ReportSection18c3ca46f2d36cc76af9?experience=power-bi)
-
 
 ## Limitations
 
