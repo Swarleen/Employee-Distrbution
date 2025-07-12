@@ -41,7 +41,9 @@ Here are some key findings derived from the HR data analysis:
 - **Employee Count Trends**: Over the years, the company's employee count has been on the rise.
 - **Tenure Variation by Department**: The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
 
-## Live Demo (https://app.powerbi.com/groups/me/reports/ae8df31d-44a3-4baa-a7c5-859e32e79a93/ReportSection18c3ca46f2d36cc76af9?experience=power-bi)
+
+## [🔗 Dashboard](https://app.powerbi.com/groups/me/reports/ae8df31d-44a3-4baa-a7c5-859e32e79a93/ReportSection18c3ca46f2d36cc76af9?experience=power-bi)
+
 
 ## Limitations
 
