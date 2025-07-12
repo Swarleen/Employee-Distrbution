@@ -41,6 +41,8 @@ Here are some key findings derived from the HR data analysis:
 - **Employee Count Trends**: Over the years, the company's employee count has been on the rise.
 - **Tenure Variation by Department**: The average tenure for each department is approximately 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.
 
+## Live Demo (https://app.powerbi.com/groups/me/reports/ae8df31d-44a3-4baa-a7c5-859e32e79a93/ReportSection18c3ca46f2d36cc76af9?experience=power-bi)
+
 ## Limitations
 
 While this dashboard offers valuable insights, it's essential to be aware of its limitations:
@@ -48,14 +50,6 @@ While this dashboard offers valuable insights, it's essential to be aware of its
 - Some records with negative ages were excluded during querying (967 records). Ages used were 18 years and above.
 - Some term dates were too far into the future and were not included in the analysis (1599 records). Only term dates up to the current date were considered.
 
-## Getting Started
-
-To get started with the HR Data Dashboard and explore the rich visualizations and findings, you can follow these steps:
-
-1. Clone this repository to your local machine.
-2. Ensure you have the necessary tools installed, such as PostgreSQL and Power BI, to analyze and visualize the data effectively.
-3. Load the provided dataset into your MySQL database.
-4. Open the Power BI file (.pbix) to interact with the pre-built visualizations and answer the key HR questions.
 
 I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
 
@@ -66,4 +60,4 @@ I hope you find this HR Data Dashboard insightful and valuable for your organiza
 
 ## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:). I would love to hear from you!
