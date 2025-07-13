@@ -69,8 +69,6 @@ I hope you find this HR Data Dashboard insightful and valuable for your organiza
 
 ## 👤 Author
 - <b>[LinkedIn](https://www.linkedin.com/in/swarleenbhamra)</b>
-
----
 - **Swarleen Bhamra** – [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarleenbhamra/)
 
 📬 Have feedback, ideas, or want to collaborate?  
