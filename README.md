@@ -10,6 +10,7 @@
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Informational?style=for-the-badge&logo=datadog&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23FF6F00?style=for-the-badge&logo=agile&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-007CBA?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 Welcome to Employee-Distribution, a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends, from diversity and tenure to turnover and geographic distribution, helping organizations make smarter, data-driven HR decisions.
@@ -68,20 +69,10 @@ While this dashboard offers valuable insights, it's essential to be aware of its
 I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes.
 
 ## 👤 Author
-- <b>[LinkedIn](https://www.linkedin.com/in/swarleenbhamra)</b>
 - **Swarleen Bhamra** – [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarleenbhamra/)
-
-📬 Have feedback, ideas, or want to collaborate?  
-Feel free to reach out at [email me](mailto:).
-
----
-
-> 🎯 *Thanks for checking out the dashboard. Happy analyzing!*
-
---
 
 
 ## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:). I would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:swarbhamra@gmail.com). 
+I would love to hear from you!
 Happy Analysing!
