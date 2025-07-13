@@ -59,7 +59,6 @@ I hope you find this HR Data Dashboard insightful and valuable for your organiza
 
 ## Author
 - <b>[LinkedIn](https://www.linkedin.com/in/swarleenbhamra)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
 ## Contact me!
 
