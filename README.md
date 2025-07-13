@@ -3,19 +3,23 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Informational?style=for-the-badge&logo=datadog&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23FF6F00?style=for-the-badge&logo=agile&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-007CBA?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 Welcome to Employee-Distribution, a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends, from diversity and tenure to turnover and geographic distribution, helping organizations make smarter, data-driven HR decisions.
 
 
 ## 🚀 Live Dashboard [![Open App](https://img.shields.io/badge/Open%20App-Streamlit-orange?logo=streamlit)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
 
-[![Watch the demo](media/preview.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
-<p align="center">
-  <a href="https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding">
-    <img src="preview.gif" width="100%" alt="Live Dashboard" />
-  </a>
-</p>
 
+[![Watch the demo](ezgif.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
 > Click the image above to open the live dashboard!
 
 ## Table of Contents
@@ -24,7 +28,7 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 - Power BI Report Walkthrough
 - Limitations
 
-## Key Questions Explored
+## 🔎 Key Questions Explored
 
 1. **Gender Breakdown**: What is the gender distribution of employees within the company?
 2. **Race/Ethnicity Breakdown**: How diverse (Racial and ethnic composition) is the workforce?
@@ -38,7 +42,7 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 11. **Employee Count Changes over Time**: Tracking how the company's employee count has changed over the years based on hiring and termination dates.
 12. **Tenure by Department**: Which departments have the longest and shortest employee tenures?
 
-## Summary of Findings
+## 📊 Summary of Findings
 
 Here are some key findings derived from the HR data analysis:
 
@@ -64,10 +68,11 @@ While this dashboard offers valuable insights, it's essential to be aware of its
 
 I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes.
 
-## Author
-- <b>[LinkedIn](https://www.linkedin.com/in/swarleenbhamra)</b>
+## 👤 Author
+- **Swarleen Bhamra** – [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarleenbhamra/)
+
 
 ## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:). I would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Swarleen](mailto:swarbhamra@gmail.com). 
+I would love to hear from you!
 Happy Analysing!
