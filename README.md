@@ -9,10 +9,10 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 
 ## 🚀 Live Dashboard
 
-//[![Watch the demo](media/preview.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
+[![Watch the demo](media/preview.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
 <p align="center">
-  <a href="https://your-streamlit-app.streamlit.app/">
-    <img src="media/preview.gif" width="100%" alt="https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding" />
+  <a href="https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding">
+    <img src="media/preview.gif" width="100%" alt="Live Dashboard" />
   </a>
 </p>
 > Click the image above to open the live dashboard!
