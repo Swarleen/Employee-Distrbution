@@ -12,7 +12,7 @@ Welcome to Employee-Distribution, a dynamic HR analytics project that transforms
 [![Watch the demo](media/preview.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
 <p align="center">
   <a href="https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding">
-    <img src="media/preview.gif" width="100%" alt="Live Dashboard" />
+    <img src="preview.gif" width="100%" alt="Live Dashboard" />
   </a>
 </p>
 
